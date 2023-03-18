@@ -9,3 +9,6 @@ Adam Geitgey has spoken 4 problems in face recognition. They are:<br>
   <li>Being able to pick out unique features of the faces that can be used to diffentiate from other people</li>
   <li>Comparing the unique features of that face to all the people to determine the person's name</li>
 </ol>
+<br><br>
+
+In this project a face recognition library developed by Adam Geitgey has been used. Numpy, opencv, face_recognition etc. libraries and HOG method have been used and applied.
